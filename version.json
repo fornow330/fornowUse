@@ -1,6 +1,6 @@
 {
-  "versionCode": 31,
-  "versionName": "0.3.10",
-  "notes": "所有层级菜单统一成底部面板风格；录制/回放顶部显示透明 3 行日志，回放可点标题停止；回放失败自动重试两次。",
+  "versionCode": 32,
+  "versionName": "0.3.11",
+  "notes": "菜单内容可上下滑动（最高占屏 70%），点外部或下拖小横线关闭；修复「桌面被当成启动步骤」导致回放第一步失败。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
