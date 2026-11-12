@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "0.3.6",
-  "notes": "版本号改为三段式（3.5 → 0.3.5，本次 0.3.6）；回放改为等界面空闲、等 App 真的切到前台、控件最多等 3 秒再回退坐标；悬浮球窗口改成显式像素尺寸。",
+  "versionCode": 28,
+  "versionName": "0.3.7",
+  "notes": "包名改为 cc.fornow.use、应用名与首页标题改为「小羽自动触发」；录制新增“撤销上一步”，脚本步骤可复制、可单独改等待时间。包名变了，需先卸载旧版再安装。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
