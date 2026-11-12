@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "0.3.11",
-  "notes": "菜单内容可上下滑动（最高占屏 70%），点外部或下拖小横线关闭；修复「桌面被当成启动步骤」导致回放第一步失败。",
+  "versionCode": 33,
+  "versionName": "0.3.12",
+  "notes": "回放条只显示「回放中 3/13 步 · 点击停止」；录制/回放日志最新一行带淡入上浮动效；新建规则自动递增为规则 N；控件录制统一改名录制脚本。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
