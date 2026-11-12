@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "2.0",
-  "notes": "新增自动更新：启动时静默检查新版本，有新版本弹窗提示，一键打开下载页；设置页可手动检查、可关掉提醒、可自定义版本清单地址。",
+  "versionCode": 12,
+  "versionName": "2.1",
+  "notes": "更新检查改为多通道自动回退：优先 jsDelivr 国内节点，失败再试 GitHub raw 与 ghproxy 镜像；设置页可看到上次成功用的是哪个通道，也可自己填清单地址。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
