@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "3.2",
-  "notes": "悬浮球：贴边小点缩得更小（26%）；悬浮菜单最后一顶改为「关闭悬浮窗」，点空白处即关闭，菜单体积更小、半透明更轻。",
+  "versionCode": 24,
+  "versionName": "3.3",
+  "notes": "悬浮球头像真正裁成圆形（带品牌色圆环）；坐标录制现在会边录边把每一步真正点出去，不会再只录到“打开 App”一步；控件录制会自动记录应用切换。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
