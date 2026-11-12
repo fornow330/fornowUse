@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "2.3",
-  "notes": "菜单界面重做：汉堡菜单、右上角 ⋮、加号、规则长按菜单、权限设置全部改成底部弹出面板——一行一个选项，带 emoji 图标、说明文字、右侧箭头和点击波纹，底部固定「取消」；右上角菜单项加了图标，右上角 FAB 改成带文字的「添加规则」，一眼就知道哪里能点。",
+  "versionCode": 15,
+  "versionName": "2.4",
+  "notes": "更新检查通道调序：优先 ghproxy（内容实时、国内一般可达），其次 GitHub raw，最后 jsDelivr 兜底（它有国内节点但分支缓存可能滞后）。界面仍是 2.3 的底部面板弹窗。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
