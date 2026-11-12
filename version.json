@@ -1,6 +1,6 @@
 {
-  "versionCode": 42,
-  "versionName": "0.3.21",
-  "notes": "一句话建规则兼容不规范的模型 JSON（代码块、尾随逗号、数字写成字符串、动作缺 action 壳）；AI 长操作修复自家界面误触发「密码/验证码」接管、点击失败重试、同一屏反复接管不再空耗步数。",
+  "versionCode": 43,
+  "versionName": "0.3.22",
+  "notes": "「打开应用」的应用列表新增搜索框，可按应用名或包名实时筛选。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
