@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "0.3.18",
-  "notes": "录制/回放悬浮条去掉黑色胶囊底与按钮底色；修复坐标录制停止/撤销点不动；回放日志不再刷「第N步完成」。",
+  "versionCode": 40,
+  "versionName": "0.3.19",
+  "notes": "悬浮球开关状态会记住：退出 App、进程被杀、开机或升级后自动恢复悬浮球。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
