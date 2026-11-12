@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "3.0",
-  "notes": "悬浮球：图标改成圆形启动图标；单击恢复为弹出竖向菜单（运行最近规则 / 坐标录制 / 控件录制 / 打开 App / 收起），菜单会根据球的位置自适应左右，不再被屏幕边裁掉。",
+  "versionCode": 22,
+  "versionName": "3.1",
+  "notes": "悬浮球：头像裁成圆形（白底 + 品牌色圆环）、窗口更小更透；拖到屏幕左右边缘松手会吸附并缩成一个小点，点一下展开，拖动时自动恢复。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
