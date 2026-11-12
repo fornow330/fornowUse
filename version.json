@@ -1,6 +1,6 @@
 {
-  "versionCode": 44,
-  "versionName": "0.3.23",
-  "notes": "AI 长操作默认走纯文字（视觉回退默认关），带图失败自动纯文字重试、规划超时自动重试一次；一句话建规则会把应用引用修正到本机真实包名、把空脚本动作去掉。",
+  "versionCode": 45,
+  "versionName": "0.3.24",
+  "notes": "新增「敏感应用保护」：在微信/QQ/抖音/支付宝里自动降速、坐标抖动、限步数与限次数；跑这些 App 时默认临时隐藏悬浮球，跑完恢复。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
