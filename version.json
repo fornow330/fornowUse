@@ -1,6 +1,6 @@
 {
-  "versionCode": 43,
-  "versionName": "0.3.22",
-  "notes": "「打开应用」的应用列表新增搜索框，可按应用名或包名实时筛选。",
+  "versionCode": 44,
+  "versionName": "0.3.23",
+  "notes": "AI 长操作默认走纯文字（视觉回退默认关），带图失败自动纯文字重试、规划超时自动重试一次；一句话建规则会把应用引用修正到本机真实包名、把空脚本动作去掉。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
