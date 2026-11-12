@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "0.3.7",
-  "notes": "包名改为 cc.fornow.use、应用名与首页标题改为「小羽自动触发」；录制新增“撤销上一步”，脚本步骤可复制、可单独改等待时间。包名变了，需先卸载旧版再安装。",
+  "versionCode": 29,
+  "versionName": "0.3.8",
+  "notes": "源码与安装包改用应用名命名；新增「断言控件存在」步骤；坐标录制跳过自家界面；任一步失败自动截图存证。包名 cc.fornow.use，首次安装需卸载旧版。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
