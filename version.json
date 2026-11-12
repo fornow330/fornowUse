@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "0.3.15",
-  "notes": "版本检查改多线路并发查询、取最高版本；录制改成按真实位移记录滑动，小滑与横滑也会录成滑动步骤。",
+  "versionCode": 37,
+  "versionName": "0.3.16",
+  "notes": "版本检查改多线路并发 + 缓存时间戳，取最高版本；录制按真实位移记录滑动，小滑、横滑都会录成滑动步骤。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
