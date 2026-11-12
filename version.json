@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "0.3.16",
-  "notes": "版本检查改多线路并发 + 缓存时间戳，取最高版本；录制按真实位移记录滑动，小滑、横滑都会录成滑动步骤。",
+  "versionCode": 39,
+  "versionName": "0.3.18",
+  "notes": "录制/回放悬浮条去掉黑色胶囊底与按钮底色；修复坐标录制停止/撤销点不动；回放日志不再刷「第N步完成」。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
