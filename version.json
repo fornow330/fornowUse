@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "2.4",
-  "notes": "更新检查通道调序：优先 ghproxy（内容实时、国内一般可达），其次 GitHub raw，最后 jsDelivr 兜底（它有国内节点但分支缓存可能滞后）。界面仍是 2.3 的底部面板弹窗。",
+  "versionCode": 16,
+  "versionName": "2.5",
+  "notes": "崩溃排查版：加入全局崩溃留痕，闪退后再打开会弹出上次的崩溃堆栈，可一键复制反馈；同时给首页菜单加载和更新检查加了兜底。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
