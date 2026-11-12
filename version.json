@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "2.8",
-  "notes": "菜单手势：点面板外空白处直接关闭；面板上的小横线可拖动关闭（底部面板下拖、顶部菜单上拖，拖动时面板跟随手指，未过阈值自动回弹）。",
+  "versionCode": 20,
+  "versionName": "2.9",
+  "notes": "菜单细节：三个点菜单去掉「检查更新」（统一放设置页）；设置页删掉多余提示文字；顶部下滑菜单的小横线移到面板底部，往上拖可关闭。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
