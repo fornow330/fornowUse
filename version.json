@@ -1,6 +1,6 @@
 {
-  "versionCode": 35,
-  "versionName": "0.3.14",
-  "notes": "录制/回放悬浮层去掉黑色遮罩；控件录制只把明确纵向滚动记成「滚动一屏」，横滑和小幅滑动不再误记成向下滑一屏。",
+  "versionCode": 36,
+  "versionName": "0.3.15",
+  "notes": "版本检查改多线路并发查询、取最高版本；录制改成按真实位移记录滑动，小滑与横滑也会录成滑动步骤。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
