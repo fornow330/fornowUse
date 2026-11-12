@@ -1,6 +1,6 @@
 {
-  "versionCode": 30,
-  "versionName": "0.3.9",
-  "notes": "悬浮球按屏幕宽度 10% 计算尺寸，贴边小点按 4.2%；贴边改为真正缩小窗口，不会误吃附近手势；控件录制补上滑动手势。",
+  "versionCode": 31,
+  "versionName": "0.3.10",
+  "notes": "所有层级菜单统一成底部面板风格；录制/回放顶部显示透明 3 行日志，回放可点标题停止；回放失败自动重试两次。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
