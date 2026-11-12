@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "3.1",
-  "notes": "悬浮球：头像裁成圆形（白底 + 品牌色圆环）、窗口更小更透；拖到屏幕左右边缘松手会吸附并缩成一个小点，点一下展开，拖动时自动恢复。",
+  "versionCode": 23,
+  "versionName": "3.2",
+  "notes": "悬浮球：贴边小点缩得更小（26%）；悬浮菜单最后一顶改为「关闭悬浮窗」，点空白处即关闭，菜单体积更小、半透明更轻。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
