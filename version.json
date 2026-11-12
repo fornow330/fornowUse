@@ -1,6 +1,6 @@
 {
-  "versionCode": 45,
-  "versionName": "0.3.24",
-  "notes": "新增「敏感应用保护」：在微信/QQ/抖音/支付宝里自动降速、坐标抖动、限步数与限次数；跑这些 App 时默认临时隐藏悬浮球，跑完恢复。",
+  "versionCode": 46,
+  "versionName": "0.3.25",
+  "notes": "录制回放稳定性：手势注入失败自动改用控件点击/控件滚动兜底（三次退避重试）；回放前等待下一步控件出现（最多 3 秒）；重试前自动把跑错的应用拉回前台；脚本编辑器新增「试跑这一步」；AI 长操作不再把只有文字的控件算作 0 个可操作元素。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
