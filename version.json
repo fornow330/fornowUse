@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "2.7",
-  "notes": "三个点不再用系统白底弹窗：工具栏改为自带三点图标，点击与三横线一样从屏幕顶部下滑出菜单，标题左对齐、右上角取消，每行带图标、说明和箭头。",
+  "versionCode": 19,
+  "versionName": "2.8",
+  "notes": "菜单手势：点面板外空白处直接关闭；面板上的小横线可拖动关闭（底部面板下拖、顶部菜单上拖，拖动时面板跟随手指，未过阈值自动回弹）。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
