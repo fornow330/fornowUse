@@ -1,6 +1,6 @@
 {
-  "versionCode": 46,
-  "versionName": "0.3.25",
-  "notes": "录制回放稳定性：手势注入失败自动改用控件点击/控件滚动兜底（三次退避重试）；回放前等待下一步控件出现（最多 3 秒）；重试前自动把跑错的应用拉回前台；脚本编辑器新增「试跑这一步」；AI 长操作不再把只有文字的控件算作 0 个可操作元素。",
+  "versionCode": 47,
+  "versionName": "0.3.26",
+  "notes": "修复录制漏滑动：滚动事件距离为 0 时按列表内容实际位移反推方向与距离；对只发「内容变化」不发「滚动」的 App 增加兜底补录；未读到位移时日志会明说。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
