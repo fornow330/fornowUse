@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "3.4",
-  "notes": "悬浮球缩到 24dp、更透明；坐标录制的边录边点改为异步不等待，连点不再被 100ms 窗口卡掉。",
+  "versionCode": 26,
+  "versionName": "3.5",
+  "notes": "修复坐标录制漏步（盲区点击用无障碍事件补录 + 注入回声去重），录制自动记录启动应用步骤，回放有稳定起点。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
