@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "3.5",
-  "notes": "修复坐标录制漏步（盲区点击用无障碍事件补录 + 注入回声去重），录制自动记录启动应用步骤，回放有稳定起点。",
+  "versionCode": 27,
+  "versionName": "0.3.6",
+  "notes": "版本号改为三段式（3.5 → 0.3.5，本次 0.3.6）；回放改为等界面空闲、等 App 真的切到前台、控件最多等 3 秒再回退坐标；悬浮球窗口改成显式像素尺寸。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
