@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "0.3.13",
-  "notes": "回放悬浮条只显示「回放中 N/M 步 · 点击停止」，下面 3 行日志恢复；最新一行日志改为 320ms 淡入 + 上浮 10dp + 高光带。",
+  "versionCode": 35,
+  "versionName": "0.3.14",
+  "notes": "录制/回放悬浮层去掉黑色遮罩；控件录制只把明确纵向滚动记成「滚动一屏」，横滑和小幅滑动不再误记成向下滑一屏。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
