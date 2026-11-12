@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "2.1",
-  "notes": "更新检查改为多通道自动回退：优先 jsDelivr 国内节点，失败再试 GitHub raw 与 ghproxy 镜像；设置页可看到上次成功用的是哪个通道，也可自己填清单地址。",
+  "versionCode": 13,
+  "versionName": "2.2",
+  "notes": "更新检查去掉技术字段：设置页只留「当前版本 / 有新版提醒我 / 立即检查更新」，多通道自动回退不再让你填地址；首页左侧菜单只放体检、权限、悬浮球，功能入口统一收到右上角 ⋮；作者与群号只在设置页显示。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
