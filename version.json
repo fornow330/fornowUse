@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "2.6",
-  "notes": "修启动闪退：右下角「添加规则」按钮换成了 ExtendedFloatingActionButton，代码里还按 FloatingActionButton 强转，一进首页就 ClassCastException。已按真实类型取控件，并新增启动自测防回归。",
+  "versionCode": 18,
+  "versionName": "2.7",
+  "notes": "三个点不再用系统白底弹窗：工具栏改为自带三点图标，点击与三横线一样从屏幕顶部下滑出菜单，标题左对齐、右上角取消，每行带图标、说明和箭头。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
