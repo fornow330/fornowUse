@@ -1,6 +1,6 @@
 {
-  "versionCode": 47,
-  "versionName": "0.3.26",
-  "notes": "修复录制漏滑动：滚动事件距离为 0 时按列表内容实际位移反推方向与距离；对只发「内容变化」不发「滚动」的 App 增加兜底补录；未读到位移时日志会明说。",
+  "versionCode": 48,
+  "versionName": "0.3.27",
+  "notes": "录制滑动时同时记录「滑动距离占列表高度的比例」；回放遇到新脚本会按当前列表高度重算滑动幅度，换机型/改字体后不再把一屏滑成小半屏。脚本编辑里会显示（列表 xx%）。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
