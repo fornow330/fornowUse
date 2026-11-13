@@ -1,6 +1,6 @@
 {
-  "versionCode": 51,
-  "versionName": "0.3.30",
-  "notes": "修复滑动回放方向与录制相反（0.3.27 起的按比例脚本会往反方向滑）；滑动没滚动时自动加长幅度重试；录制日志改为后台写盘，录制时不再卡顿、日志不再成堆后出。",
+  "versionCode": 52,
+  "versionName": "0.3.31",
+  "notes": "新增触发条件：每隔 N 分钟、离开应用；新增动作：媒体控制（播放/暂停/切歌）、截图保存、复制到剪贴板、朗读文字、打开链接、振动提醒。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
