@@ -1,6 +1,6 @@
 {
-  "versionCode": 52,
-  "versionName": "0.3.31",
-  "notes": "新增触发条件：每隔 N 分钟、离开应用；新增动作：媒体控制（播放/暂停/切歌）、截图保存、复制到剪贴板、朗读文字、打开链接、振动提醒。",
+  "versionCode": 53,
+  "versionName": "0.3.32",
+  "notes": "首页权限行可点，打开「权限体检」逐项说明并跳转设置；守护服务被系统停掉时立刻标红并可点重启；全部旧标识统一改名（通知栏不再出现 fornowUse、代码内不再有 ZhiDian），旧设置与通知通道自动迁移。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
