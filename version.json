@@ -1,6 +1,6 @@
 {
-  "versionCode": 48,
-  "versionName": "0.3.27",
-  "notes": "录制滑动时同时记录「滑动距离占列表高度的比例」；回放遇到新脚本会按当前列表高度重算滑动幅度，换机型/改字体后不再把一屏滑成小半屏。脚本编辑里会显示（列表 xx%）。",
+  "versionCode": 49,
+  "versionName": "0.3.28",
+  "notes": "同名控件按离录制坐标最近择优，避免点错行；滑动没产生滚动会识别为到底，连续 3 次自动收尾；失败现场多存几张（失败时 + 每次重试后）方便定位。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
