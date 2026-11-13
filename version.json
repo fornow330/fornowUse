@@ -1,6 +1,6 @@
 {
-  "versionCode": 53,
-  "versionName": "0.3.32",
-  "notes": "首页权限行可点，打开「权限体检」逐项说明并跳转设置；守护服务被系统停掉时立刻标红并可点重启；全部旧标识统一改名（通知栏不再出现 fornowUse、代码内不再有 ZhiDian），旧设置与通知通道自动迁移。",
+  "versionCode": 54,
+  "versionName": "0.3.33",
+  "notes": "通知栏标题改回「fornowUse 守护中」；回放遇到密码/验证码/支付/银行类界面自动暂停，通知栏可点「我已处理完，继续」或「停止」；悬浮球菜单新增暂停/继续回放；设置页可关掉这个安全闸。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
