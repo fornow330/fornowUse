@@ -1,6 +1,6 @@
 {
-  "versionCode": 56,
-  "versionName": "0.3.35",
-  "notes": "修「打开京东搜索一个商品」只弹提示不操作：AI 一句话建规则不再用提示冒充实际操作，遇到需要真点真搜的需求会引导改用「AI 长操作」；内置大模型通道已实测可用（spark-x2.6）。",
+  "versionCode": 57,
+  "versionName": "0.3.36",
+  "notes": "AI 更稳：大模型调用超时放宽到 75 秒并自动重试一次，失败会写进运行日志（含 HTTP 状态码与耗时）；自己填的 Key 失效时自动改用内置通道；内置通道实测可用（spark-x2.6）。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
