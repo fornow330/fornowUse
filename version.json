@@ -1,6 +1,6 @@
 {
-  "versionCode": 57,
-  "versionName": "0.3.36",
-  "notes": "AI 更稳：大模型调用超时放宽到 75 秒并自动重试一次，失败会写进运行日志（含 HTTP 状态码与耗时）；自己填的 Key 失效时自动改用内置通道；内置通道实测可用（spark-x2.6）。",
+  "versionCode": 58,
+  "versionName": "0.3.37",
+  "notes": "AI 提速：大模型改流式输出（界面实时显示已生成多少字，不再卡住干等）；提示词瘦身减少思考量；「打开某App搜索某词」走本地快路径直接点、不走模型；同一句需求生成的规则缓存复用；长操作跑完挂通知。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
