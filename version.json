@@ -1,6 +1,6 @@
 {
-  "versionCode": 55,
-  "versionName": "0.3.34",
-  "notes": "内置大模型通道（spark-x2.6 纯文字，有效期至 2026-12-01），无需自填 Key 即可用 AI 生成规则和 AI 长操作；Key 在设置页只显示涂抹版，到期自动停用并清掉配置；自己填过 Key 的继续用自己的。",
+  "versionCode": 56,
+  "versionName": "0.3.35",
+  "notes": "修「打开京东搜索一个商品」只弹提示不操作：AI 一句话建规则不再用提示冒充实际操作，遇到需要真点真搜的需求会引导改用「AI 长操作」；内置大模型通道已实测可用（spark-x2.6）。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
