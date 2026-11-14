@@ -1,6 +1,6 @@
 {
-  "versionCode": 54,
-  "versionName": "0.3.33",
-  "notes": "通知栏标题改回「fornowUse 守护中」；回放遇到密码/验证码/支付/银行类界面自动暂停，通知栏可点「我已处理完，继续」或「停止」；悬浮球菜单新增暂停/继续回放；设置页可关掉这个安全闸。",
+  "versionCode": 55,
+  "versionName": "0.3.34",
+  "notes": "内置大模型通道（spark-x2.6 纯文字，有效期至 2026-12-01），无需自填 Key 即可用 AI 生成规则和 AI 长操作；Key 在设置页只显示涂抹版，到期自动停用并清掉配置；自己填过 Key 的继续用自己的。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
