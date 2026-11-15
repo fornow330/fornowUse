@@ -1,6 +1,6 @@
 {
-  "versionCode": 67,
-  "versionName": "0.3.46",
-  "notes": "修「打开应用失败」：把模型给的「打开京东App并搜索男冬装」这类说法先清洗成「京东」再解析（去掉打开/App/应用/客户端，截到第一个逗号或「并」之前）；解析顺序加粗相似度兑底；运行日志会写「打开应用：xxx → 京东(com.jingdong.app.mall) 成功/启动失败」，一眼能看到到底卡在哪。",
+  "versionCode": 68,
+  "versionName": "0.3.47",
+  "notes": "长操作变快、也能真的输入搜索词：①新增本地快动作，目标里要求打开某 App 或搜索/输入关键词时自己直接做，不再每次问大模型（日志里带 ⚡ 标记）；②提示词强加两条规则：要输入文字而屏幕上有输入框时必用 INPUT_TEXT，已打开过 App 不要再 OPEN_APP；③提示词瘦身：屏幕元素 40→18 条、OCR 文本 600→300 字，规划从每 3 步一次改为每 5 步一次，往返次数明显下降。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
