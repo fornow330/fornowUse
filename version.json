@@ -1,6 +1,6 @@
 {
-  "versionCode": 64,
-  "versionName": "0.3.43",
-  "notes": "借鉴 Mika：①无障碍读不到文字的自绘界面/网页，自动用端上 OCR 兜底，找字、等文字、AI 长操作都能用；②内置 14 个常见 App 的界面使用常识（京东/淘宝/微信/支付宝/抖音/美团/高德/小红书/QQ/B站/钉钉/拼多多/饿了么/天猫），直接写进提示词，少走错页面。",
+  "versionCode": 66,
+  "versionName": "0.3.45",
+  "notes": "修两处：①前台服务启动时若 5 秒内没能 startForeground 会直接崩溃（ForegroundServiceDidNotStartInTime），现在先带 specialUse 类型启动、失败再退回两参数、仍失败就主动退出服务不崩 App，并把真实原因写进运行日志；②按名字打开 App 时「京东」被模糊匹配成了「京东读书」，改为打分解析（包名精确 > 常见别名 > 名字完全一致 > 开头 > 包含取最短），并把 30 个常见 App 的中文名映射成包名。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
