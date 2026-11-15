@@ -1,6 +1,6 @@
 {
-  "versionCode": 62,
-  "versionName": "0.3.41",
-  "notes": "修复截屏不可用的根因：无障碍服务配置漏了 canTakeScreenshot=true，导致 takeScreenshot 直接抛「Services don't have the capability of taking the screenshot」。开启后找图、失败现场截图、AI 视觉回退都能正常取画面。同时失败原因不再误报成「超时」。",
+  "versionCode": 63,
+  "versionName": "0.3.42",
+  "notes": "取图/取坐标全部改到悬浮窗：先出可拖动小球，切到目标页面点它，全屏灰蒙层框选（拖框移动、拖边角改大小）或十字架取坐标，底部重选/取消/确定。模板图、识别区域、找图找字点哪里、模拟点击坐标都走悬浮窗，不再手敲坐标。动作列表支持长按拖动直接排序（原上移/下移保留）。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
