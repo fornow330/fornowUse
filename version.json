@@ -1,6 +1,6 @@
 {
-  "versionCode": 61,
-  "versionName": "0.3.40",
-  "notes": "截屏失败不再糊成一句话：日志会写明是系统版本过低、截屏超时、系统节流、无障碍截屏权限被厂商关闭，还是内部错误（带错误码）。体检页新增「截图能力实测一次」，一眼看出这台机器能不能截屏（找图功能依赖它）。",
+  "versionCode": 62,
+  "versionName": "0.3.41",
+  "notes": "修复截屏不可用的根因：无障碍服务配置漏了 canTakeScreenshot=true，导致 takeScreenshot 直接抛「Services don't have the capability of taking the screenshot」。开启后找图、失败现场截图、AI 视觉回退都能正常取画面。同时失败原因不再误报成「超时」。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
