@@ -1,6 +1,6 @@
 {
-  "versionCode": 80,
-  "versionName": "0.3.59",
-  "notes": "体积再降至 8.7MB（只保留 arm64 原生库）；性能：每步只遍历一次界面树（原来 3-4 次）；修复：Android 11 以下截屏调用缺 API 守卫、通知权限未给时发送提醒会静默失败、无障碍断开后长任务直接报错而非白跑；lint 错误 0。",
+  "versionCode": 81,
+  "versionName": "0.3.60",
+  "notes": "十条齐上：条件任一满足、失败那步重跑、点击后校验、轨迹一键存规则、通知聚合、国产 ROM 后台向导、规则分组与批量启停、冷启动异步、应用白名单、结果自动归档；lint 0 error。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
