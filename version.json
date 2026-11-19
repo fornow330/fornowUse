@@ -1,6 +1,6 @@
 {
-  "versionCode": 84,
-  "versionName": "0.3.63",
-  "notes": "规划 JSON 容错修复、卡住自动带截图、规划上下文瘦身、任务链防打转、失败截图降负载、云模板字段清洗；lint 0 error。",
+  "versionCode": 85,
+  "versionName": "0.3.64",
+  "notes": "快捷路径搜索词截断、任务链遵守启用状态、规则历史去重、任务历史留 200 条、回放按步骤数字排序、亮度恢复自动跳授权、模板下载校验、日志上限 512KB、断点每 2 步落盘、任务看板可滚动；lint 0 error。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
