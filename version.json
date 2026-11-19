@@ -1,6 +1,6 @@
 {
-  "versionCode": 83,
-  "versionName": "0.3.62",
-  "notes": "规划流式输出、双通道竞速、动作级超时、任务链、规则版本回滚、成功率趋势与小时热力、设置改动一键恢复、悬浮球语音下任务、截图任务回放、云模板更新；lint 0 error。",
+  "versionCode": 84,
+  "versionName": "0.3.63",
+  "notes": "规划 JSON 容错修复、卡住自动带截图、规划上下文瘦身、任务链防打转、失败截图降负载、云模板字段清洗；lint 0 error。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
