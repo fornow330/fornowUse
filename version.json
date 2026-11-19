@@ -1,6 +1,6 @@
 {
-  "versionCode": 81,
-  "versionName": "0.3.60",
-  "notes": "十条齐上：条件任一满足、失败那步重跑、点击后校验、轨迹一键存规则、通知聚合、国产 ROM 后台向导、规则分组与批量启停、冷启动异步、应用白名单、结果自动归档；lint 0 error。",
+  "versionCode": 82,
+  "versionName": "0.3.61",
+  "notes": "热区学习、预演体检、失败归因建议、OCR 区域裁剪+缓存、找字同义模糊、规则时间轴、排队优先级/取消、平板与横屏适配、离线兜底；lint 0 error。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
