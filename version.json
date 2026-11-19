@@ -1,6 +1,6 @@
 {
-  "versionCode": 85,
-  "versionName": "0.3.64",
-  "notes": "快捷路径搜索词截断、任务链遵守启用状态、规则历史去重、任务历史留 200 条、回放按步骤数字排序、亮度恢复自动跳授权、模板下载校验、日志上限 512KB、断点每 2 步落盘、任务看板可滚动；lint 0 error。",
+  "versionCode": 86,
+  "versionName": "0.3.65",
+  "notes": "手动停止后不再自动跑队列、带图时跳过重复 OCR、长操作时长可配默认 10 分钟、任务链选择改为两步、版本回滚原地生效、云模板每日自动更新；lint 0 error。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
