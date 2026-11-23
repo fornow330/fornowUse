@@ -1,6 +1,6 @@
 {
-  "versionCode": 86,
-  "versionName": "0.3.65",
-  "notes": "手动停止后不再自动跑队列、带图时跳过重复 OCR、长操作时长可配默认 10 分钟、任务链选择改为两步、版本回滚原地生效、云模板每日自动更新；lint 0 error。",
+  "versionCode": 87,
+  "versionName": "0.3.66",
+  "notes": "修复：内置通道到期后自动切备用通道、内置纯文字模型不再白截图、任务链遵守启用状态但手动执行不受限；性能：OCR 降低分辨率、找图降负载、历史描述截断、每次任务清空旧设置改动。lint 0 error。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
