@@ -1,6 +1,6 @@
 {
-  "versionCode": 92,
-  "versionName": "0.3.71",
-  "notes": "修复：暂停/锁屏时间被计入任务总时长导致恢复后立刻超时；性能：预演后台化、回放清理集中到任务开始。lint 0 error。",
+  "versionCode": 93,
+  "versionName": "0.3.72",
+  "notes": "新增玩法中心（12 个一键场景，点一下自动开跑）、成就与连击徽章、今日推荐玩法；徽章只读本机任务记录。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
