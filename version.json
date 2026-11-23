@@ -1,6 +1,6 @@
 {
-  "versionCode": 90,
-  "versionName": "0.3.69",
-  "notes": "修复：手动停止被计入成功率、回滚规则后定时/守护未重排；性能：回放截图改为每 3 步、每轮只读一次时长配置。lint 0 error。",
+  "versionCode": 91,
+  "versionName": "0.3.70",
+  "notes": "修复：点开始前的预演在主线程读界面树造成卡顿、回放截图跨任务混在一起；性能：预演移到后台线程、回放目录在任务开始时统一清理。lint 0 error。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
