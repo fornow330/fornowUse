@@ -1,6 +1,6 @@
 {
-  "versionCode": 87,
-  "versionName": "0.3.66",
-  "notes": "修复：内置通道到期后自动切备用通道、内置纯文字模型不再白截图、任务链遵守启用状态但手动执行不受限；性能：OCR 降低分辨率、找图降负载、历史描述截断、每次任务清空旧设置改动。lint 0 error。",
+  "versionCode": 88,
+  "versionName": "0.3.67",
+  "notes": "修复：失败截图无限堆积、队列无上限、续跑时误清设置改动、竞速主备重复；性能：每轮只读一次配置、模板下载及时断开连接。lint 0 error。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
