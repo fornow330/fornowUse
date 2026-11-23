@@ -1,6 +1,6 @@
 {
-  "versionCode": 88,
-  "versionName": "0.3.67",
-  "notes": "修复：失败截图无限堆积、队列无上限、续跑时误清设置改动、竞速主备重复；性能：每轮只读一次配置、模板下载及时断开连接。lint 0 error。",
+  "versionCode": 89,
+  "versionName": "0.3.68",
+  "notes": "修复：动作抛异常被误报为超时、锁屏时无效点击白耗步数、回放大图未回收；锁屏会等待并自动续跑（5 分钟上限）。lint 0 error。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
