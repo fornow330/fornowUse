@@ -1,6 +1,6 @@
 {
-  "versionCode": 91,
-  "versionName": "0.3.70",
-  "notes": "修复：点开始前的预演在主线程读界面树造成卡顿、回放截图跨任务混在一起；性能：预演移到后台线程、回放目录在任务开始时统一清理。lint 0 error。",
+  "versionCode": 92,
+  "versionName": "0.3.71",
+  "notes": "修复：暂停/锁屏时间被计入任务总时长导致恢复后立刻超时；性能：预演后台化、回放清理集中到任务开始。lint 0 error。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
