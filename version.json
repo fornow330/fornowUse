@@ -1,6 +1,6 @@
 {
-  "versionCode": 93,
-  "versionName": "0.3.72",
-  "notes": "新增玩法中心（12 个一键场景，点一下自动开跑）、成就与连击徽章、今日推荐玩法；徽章只读本机任务记录。",
+  "versionCode": 94,
+  "versionName": "0.3.73",
+  "notes": "稳定性与性能修复：并发触发不再重复执行或写坏内存结构；规则/脚本/队列改为原子保存，断电或强退不再丢配置；找图轮询及时回收截图，长时间运行更省内存；兼容 Android 10–13 前台服务启动；下载地址仅允许 http/https；规则列表改为增量刷新，搜索和滚动更跟手。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
