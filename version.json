@@ -1,6 +1,6 @@
 {
-  "versionCode": 97,
-  "versionName": "0.3.76",
-  "notes": "第四轮修复：AI 长任务手动停止后前台服务和「正在操作」通知不再残留，任务记录会正常收尾，断点也不会在停止后又冒出来；另一条规则占着界面时，本规则不会再被白白冷却 60 秒；空动作/被冷却挡下的规则不再计入运行次数和「最近触发」；规则里「打开网址」只允许 http/https，导入的规则不能再借 intent:// 拉起任意组件；Android 13 没给通知权限时「发通知」会如实报失败并提示去体检页开启；悬浮窗权限被撤时不再留假引用、能自动退出而不是卡住；相册二维码先按尺寸采样再识别，连续导入大图不 OOM；找节点优先走系统 text/viewId 索引，长脚本每步少遍历整棵树；时间窗正则改为预编译。",
+  "versionCode": 98,
+  "versionName": "0.3.77",
+  "notes": "首页冷启动不再同步重排闹钟，改由后台协程处理；长任务日志改为原子更新并最多保留 400 行；编辑页模板选择回调改为随页面 onStart/onStop 挂载和解绑，去掉静态 Activity 引用；合并重复的桌面快捷方式同步逻辑，桌面快捷方式只保留一套 ID；删除 15 项无用资源（activity_trigger、main_menu、5 个菜单图标、bg_ball、bg_stop、float_stop 及多余颜色/字符串）；移除 10 处 minSdk 26 下永远成立的旧版本判断；补充 2 个界面锁/冷却回归测试。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
