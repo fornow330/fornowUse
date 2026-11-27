@@ -1,6 +1,6 @@
 {
-  "versionCode": 100,
-  "versionName": "0.3.79",
-  "notes": "脚本列表、步骤列表、触发条件列表改用 DiffUtil 精确增量刷新，编辑时不再整表重建；首页在销毁时清掉全部延时回调，避免搜索防抖回调落到已销毁界面；日志页的噪音关键词改为常量，不用每次刷新重建；Lint 从 197 条降到 192 条，NotifyDataSetChanged 告警清零。",
+  "versionCode": 101,
+  "versionName": "0.3.80",
+  "notes": "相册选图存模板改为先按长边 1440 采样解码，避免 4000×3000 原图直接进内存；任务回放截图预览按长边 1600 采样；悬浮条高亮块复用 RectF，不再每帧新建；输入框统一关闭自动填充；规则编辑页 4 处 10sp 提示改为 11sp；无障碍事件 when 补全 else；修正 sp 换算的弃用 API；Lint 从 192 条降到 178 条。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
