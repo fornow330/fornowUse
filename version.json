@@ -1,6 +1,6 @@
 {
-  "versionCode": 101,
-  "versionName": "0.3.80",
-  "notes": "相册选图存模板改为先按长边 1440 采样解码，避免 4000×3000 原图直接进内存；任务回放截图预览按长边 1600 采样；悬浮条高亮块复用 RectF，不再每帧新建；输入框统一关闭自动填充；规则编辑页 4 处 10sp 提示改为 11sp；无障碍事件 when 补全 else；修正 sp 换算的弃用 API；Lint 从 192 条降到 178 条。",
+  "versionCode": 102,
+  "versionName": "0.3.81",
+  "notes": "录制步数标题改为完全由 onRecorded 回调更新，删掉每秒轮询；日志内存队列从 ArrayList 换成双端队列，满 300 行后 O(1) 丢弃队首，不再每次搬 300 个引用；悬浮球、日志条、录制浮层补 performClick，改善无障碍点击反馈；Lint 从 178 条降到 175 条，ClickableViewAccessibility 从 8 条降到 5 条。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
