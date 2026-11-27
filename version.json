@@ -1,6 +1,6 @@
 {
-  "versionCode": 98,
-  "versionName": "0.3.77",
-  "notes": "首页冷启动不再同步重排闹钟，改由后台协程处理；长任务日志改为原子更新并最多保留 400 行；编辑页模板选择回调改为随页面 onStart/onStop 挂载和解绑，去掉静态 Activity 引用；合并重复的桌面快捷方式同步逻辑，桌面快捷方式只保留一套 ID；删除 15 项无用资源（activity_trigger、main_menu、5 个菜单图标、bg_ball、bg_stop、float_stop 及多余颜色/字符串）；移除 10 处 minSdk 26 下永远成立的旧版本判断；补充 2 个界面锁/冷却回归测试。",
+  "versionCode": 99,
+  "versionName": "0.3.78",
+  "notes": "悬浮球长任务气泡改为订阅状态流，取消每 1.2 秒轮询；录制停止条步数轮询从 400ms 放宽到 1s，且仅在步数变化时改标题；首页规则搜索输入加 120ms 防抖；首页运行状态与守护提示改为仅在变化时刷新，轮询从 800ms 放宽到 1.2s；无障碍快照遍历增加 4000 节点总上限；清掉 4 条 Kotlin 编译警告。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
