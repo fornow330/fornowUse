@@ -1,6 +1,6 @@
 {
-  "versionCode": 99,
-  "versionName": "0.3.78",
-  "notes": "悬浮球长任务气泡改为订阅状态流，取消每 1.2 秒轮询；录制停止条步数轮询从 400ms 放宽到 1s，且仅在步数变化时改标题；首页规则搜索输入加 120ms 防抖；首页运行状态与守护提示改为仅在变化时刷新，轮询从 800ms 放宽到 1.2s；无障碍快照遍历增加 4000 节点总上限；清掉 4 条 Kotlin 编译警告。",
+  "versionCode": 100,
+  "versionName": "0.3.79",
+  "notes": "脚本列表、步骤列表、触发条件列表改用 DiffUtil 精确增量刷新，编辑时不再整表重建；首页在销毁时清掉全部延时回调，避免搜索防抖回调落到已销毁界面；日志页的噪音关键词改为常量，不用每次刷新重建；Lint 从 197 条降到 192 条，NotifyDataSetChanged 告警清零。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/BJknf1h2Ol4PKXd6StYcFZuAn4d"
 }
